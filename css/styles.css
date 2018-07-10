@@ -1,6 +1,178 @@
 .container-fluid{
-    background-image: url(/images/backgrounds/landing.jpg);
+    background-image: url("../images/backgrounds/landing.jpg");
    text-align: center;
    font-family: 'Times New Roman', Times, serif;
    
+}
+.container-fluid p{
+    color: white;
+   font-size: 1cm; 
+}
+#breakfirst{
+    background-image: url("../images/foodtop/breakfast.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder
+}
+#breakfirst:hover{
+    opacity: 0.3;
+}
+.row{
+    padding-bottom:200px;
+}
+#lunch{
+    background-image: url("../images/foodtop/lunch.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    box-shadow: 50px gray;
+    
+}
+#lunch:hover{
+    opacity: 0.3;
+}
+#Dinner{
+    background-image: url("../images/foodtop/dinner.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold
+}
+#Dinner:hover{
+    opacity: 0.3;
+}
+   
+
+#orange{
+    color:black;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 35px;
+    width: 330px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: -30px;
+    margin-bottom: 18px;
+    padding: 34.5px
+    
+}
+#orange:hover{
+    background-color: orangered;
+    color: white;
+}
+.row img{
+    height: 20%    
+}
+.col-md-3{
+    height: 200px;
+}
+.col-md-12{
+    height: 500px
+}
+#black{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 30px;
+    font-size: 23px;
+    background-color: lightgray;
+    width: 330px; 
+    margin-left: -30px;
+    padding-top:30px ;             
+    
+}
+#black:hover{
+    background-color: orangered;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+#icon{
+    position: relative;
+    right: 550px;
+    top: 40px;
+    color: white;
+}
+#image{
+    position: relative;
+    right: 500px;
+    display: inline-block;
+    
+}
+#text{
+    position: relative;
+    left: 700px;
+    
+}
+.col-md-5{
+    position: relative;
+    right: 500px;
+    width: 400px;
+    height: 1000px;
+    border: 0px;
+    
+}
+#text h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder
+}
+#text h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+#button1{
+     background-color: white;
+     color: orangered;
+     border: 2px solid orangered;
+     position: relative;
+     left: 600px;
+     height:40px;
+     bottom: 50px
+}
+.column{
+    float: right;
+    width: 200px;
+    padding: 0px;
+    position: relative;
+    left: 700px;
+    bottom: 300px
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+#drinks{
+    bottom: 500px;
+}
+#drinks h1{
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bolder;
+     text-align: right   
+     
+}
+#drinks h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right
+    
+}
+#button2{
+    background-color: white;
+    color: orangered;
+    border: 2px solid orangered;
+    position: relative;
+    left: 300px;
+    height:40px;
+    bottom: 380px;
+}
+#drinks p{
+    text-align: right;
+}
+
+#lower{
+    background-image: url(/css/backgrounds/foodsBg.jpg);
+    top: 1000px;
 }
