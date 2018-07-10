@@ -173,6 +173,118 @@ ul{
 }
 
 #lower{
-    background-image: url(/css/backgrounds/foodsBg.jpg);
+    background-image: url(../images/backgrounds/foodsBg.jpg);
     top: 1000px;
 }
+
+.row.row1{
+    margin-left: 20%;
+    margin-top: -60%;
+    font-size: 30px;
+  
+  }
+  .row2-text{
+    color: #F15A29;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    bottom: -15px;
+    left:100px;
+  
+  
+  }
+  #btn1{
+    background-color: #566573;
+    padding:0.1em;
+  
+  
+  }
+  #btn2{
+    background-color: #566573;
+    padding:0.1em;
+  
+  
+  }
+  #btn3{
+    background-color: #566573;
+    padding:0.1em;
+  
+  
+  }
+  #btn4{
+    background-color: #566573;
+    padding:0.1em;
+  
+  }
+  .cont1{
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 23px;
+    box-shadow: 0 0 6px 6px lightgrey;
+    column-rule-style: solid;
+    column-rule-color: black;
+    height: 250px;
+  
+  
+  
+  }
+  .container.cont1{
+    margin-bottom: 6em;
+    margin-top: 15%;
+  
+  }
+  .col-md-4{
+    background-color: white;
+    padding: 3em;
+  
+  }
+  .h3text{
+    color:#F15A29;
+    font-family: serif;
+    font-size: 30px;
+  }
+  .img3{
+    width:101.49%;
+  
+  }
+  
+  .email{
+    margin-left: 35%;
+    margin-top:-12%;
+    color: white;
+  }
+  
+  #inputfield{
+    opacity: 0.5;
+    width: 300px;
+  }
+  .btn.btn-email{
+    background-color: #F15A29;
+    color: white;
+    font-family: serif;
+  
+  }
+  .img4{
+    height:450px;
+    width: 101.49%;
+    margin-top: 4.5em;
+    padding-bottom: 9em;
+    background-color: #F15A29
+  
+  }
+  .footer-bkgrnd{
+    margin-top: -27%;
+    margin-left: 40%;
+    font-family: serif;
+    
+  }
+  #menu{
+    color: white;
+    margin-left: 8%;
+    margin-top: -4%;
+    margin-bottom: 3%;
+  }
+  #menu2{
+    margin-top: 3em;
+    color: white;
+  }
