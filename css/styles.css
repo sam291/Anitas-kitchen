@@ -169,7 +169,7 @@ ul{
     bottom: 380px;
 }
 #drinks p{
-    text-align: right;
+    text-align: right
 }
 
 #lower{
@@ -241,17 +241,17 @@ ul{
   .h3text{
     color:#F15A29;
     font-family: serif;
-    font-size: 30px;
+    font-size: 30px
   }
   .img3{
-    width:101.49%;
+    width:101.49%
   
   }
   
   .email{
     margin-left: 35%;
     margin-top:-12%;
-    color: white;
+    color: white
   }
   
   #inputfield{
@@ -261,7 +261,7 @@ ul{
   .btn.btn-email{
     background-color: #F15A29;
     color: white;
-    font-family: serif;
+    font-family: serif
   
   }
   .img4{
@@ -275,16 +275,16 @@ ul{
   .footer-bkgrnd{
     margin-top: -27%;
     margin-left: 40%;
-    font-family: serif;
+    font-family: serif
     
   }
   #menu{
     color: white;
     margin-left: 8%;
     margin-top: -4%;
-    margin-bottom: 3%;
+    margin-bottom: 3%
   }
   #menu2{
     margin-top: 3em;
-    color: white;
+    color: white
   }
