@@ -3,22 +3,22 @@
 ## DESCRIPTION
 This is a webpage created for anitas kitchen containing food menu etc
 
-##AUTHOR
+## AUTHOR
 Samuel Muiga Mwangi
 
-##PREREQUISITES
+## PREREQUISITES
 the most prefered web browser you need is chrome but if you have mozilla fireox its ok.
 
-##BUILT WITH
+## BUILT WITH
 This website was built with HTML and also CSS and abit of BOOTSTRAP
 
-##LINK TO SITE
+## LINK TO SITE
 <https://sam291.github.io/anitas-kitchen/>
 
-##CONTACT DETAILS
+## CONTACT DETAILS
 Incase you want to reach out to me you can reach to me through this email address. sammuiga.m@gmail.com.
 
-##LICENCE
+## LICENCE
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
